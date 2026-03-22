@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "傷心らぶ - Heartbroken love",
+  "base_artist": "z²",
+  "createdAt": "2026-03-22T04:52:19.586594Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "傷心らぶ",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_傷心らぶ_z2.txt"
+    }
+  ]
+}
